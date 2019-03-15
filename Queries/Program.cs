@@ -8,7 +8,7 @@ namespace Queries
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Movies Queries with LINQ");
+            Console.WriteLine("Movies Queries with LINQ : Differred Execution");
 
             var movies = new List<Movie> 
             {
